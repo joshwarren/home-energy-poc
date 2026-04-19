@@ -1,0 +1,9 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+# IDE
+.vscode/
+.idea/
+# Environment
+.env
